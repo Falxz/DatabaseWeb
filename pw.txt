@@ -1,1 +1,5 @@
-falxz:falxzdeveloper
+{
+  "url_aktif": "https://falxz.falvador.biz.id:10002",
+  "updated_at": "2026-10-14T12:36:22.013Z",
+  "updated_by": "falxz"
+}
